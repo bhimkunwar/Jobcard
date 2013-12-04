@@ -1,0 +1,5 @@
+E:\dev work\Dev_Work\mission upgrade\Srt\Srt\SRT\SRT.Common\bin\Debug\SRT.Common.dll
+E:\dev work\Dev_Work\mission upgrade\Srt\Srt\SRT\SRT.Common\bin\Debug\SRT.Common.pdb
+E:\dev work\Dev_Work\mission upgrade\Srt\Srt\SRT\SRT.Common\obj\Debug\SRT.Common.csprojResolveAssemblyReference.cache
+E:\dev work\Dev_Work\mission upgrade\Srt\Srt\SRT\SRT.Common\obj\Debug\SRT.Common.dll
+E:\dev work\Dev_Work\mission upgrade\Srt\Srt\SRT\SRT.Common\obj\Debug\SRT.Common.pdb

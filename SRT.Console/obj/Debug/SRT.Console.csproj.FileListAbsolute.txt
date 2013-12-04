@@ -1,0 +1,40 @@
+E:\dev work\Dev_Work\mission upgrade\Srt\Srt\SRT\SRT.Console\bin\Debug\SRT.Console.exe.config
+E:\dev work\Dev_Work\mission upgrade\Srt\Srt\SRT\SRT.Console\bin\Debug\SRT.Console.exe
+E:\dev work\Dev_Work\mission upgrade\Srt\Srt\SRT\SRT.Console\bin\Debug\SRT.Console.pdb
+E:\dev work\Dev_Work\mission upgrade\Srt\Srt\SRT\SRT.Console\bin\Debug\FluentNHibernate.dll
+E:\dev work\Dev_Work\mission upgrade\Srt\Srt\SRT\SRT.Console\bin\Debug\NHibernate.dll
+E:\dev work\Dev_Work\mission upgrade\Srt\Srt\SRT\SRT.Console\bin\Debug\SRT.Core.dll
+E:\dev work\Dev_Work\mission upgrade\Srt\Srt\SRT\SRT.Console\bin\Debug\SRT.Core.pdb
+E:\dev work\Dev_Work\mission upgrade\Srt\Srt\SRT\SRT.Console\bin\Debug\FluentNHibernate.xml
+E:\dev work\Dev_Work\mission upgrade\Srt\Srt\SRT\SRT.Console\bin\Debug\NHibernate.xml
+E:\dev work\Dev_Work\mission upgrade\Srt\Srt\SRT\SRT.Console\obj\Debug\SRT.Console.csprojResolveAssemblyReference.cache
+E:\dev work\Dev_Work\mission upgrade\Srt\Srt\SRT\SRT.Console\obj\Debug\SRT.Console.exe
+E:\dev work\Dev_Work\mission upgrade\Srt\Srt\SRT\SRT.Console\obj\Debug\SRT.Console.pdb
+E:\dev work\Dev_Work\mission upgrade\Srt\Srt\SRT\SRT.Console\bin\Debug\SRT.Dao.dll
+E:\dev work\Dev_Work\mission upgrade\Srt\Srt\SRT\SRT.Console\bin\Debug\SRT.Dao.pdb
+I:\dev_work\personal\SRT\SRT.Console\bin\Debug\SRT.Console.exe.config
+I:\dev_work\personal\SRT\SRT.Console\bin\Debug\SRT.Console.exe
+I:\dev_work\personal\SRT\SRT.Console\bin\Debug\SRT.Console.pdb
+I:\dev_work\personal\SRT\SRT.Console\bin\Debug\SRT.Core.dll
+I:\dev_work\personal\SRT\SRT.Console\bin\Debug\SRT.Dao.dll
+I:\dev_work\personal\SRT\SRT.Console\bin\Debug\Iesi.Collections.dll
+I:\dev_work\personal\SRT\SRT.Console\bin\Debug\SRT.Core.pdb
+I:\dev_work\personal\SRT\SRT.Console\bin\Debug\SRT.Dao.pdb
+I:\dev_work\personal\SRT\SRT.Console\bin\Debug\FluentNHibernate.xml
+I:\dev_work\personal\SRT\SRT.Console\bin\Debug\NHibernate.xml
+I:\dev_work\personal\SRT\SRT.Console\obj\Debug\SRT.Console.csprojResolveAssemblyReference.cache
+I:\dev_work\personal\SRT\SRT.Console\obj\Debug\SRT.Console.exe
+I:\dev_work\personal\SRT\SRT.Console\obj\Debug\SRT.Console.pdb
+I:\dev_work\personal\SRT\SRT.Console\bin\Debug\FluentNHibernate.dll
+E:\dev work\Dev_Work\mission upgrade\Srt\Srt\SRT\jobcard.git\trunk\JobCard\SRT.Console\bin\Debug\SRT.Console.exe.config
+E:\dev work\Dev_Work\mission upgrade\Srt\Srt\SRT\jobcard.git\trunk\JobCard\SRT.Console\obj\Debug\SRT.Console.exe
+E:\dev work\Dev_Work\mission upgrade\Srt\Srt\SRT\jobcard.git\trunk\JobCard\SRT.Console\obj\Debug\SRT.Console.pdb
+E:\dev work\Dev_Work\mission upgrade\Srt\Srt\SRT\jobcard.git\trunk\JobCard\SRT.Console\bin\Debug\SRT.Console.exe
+E:\dev work\Dev_Work\mission upgrade\Srt\Srt\SRT\jobcard.git\trunk\JobCard\SRT.Console\bin\Debug\SRT.Console.pdb
+E:\dev work\Dev_Work\mission upgrade\Srt\Srt\SRT\jobcard.git\trunk\JobCard\SRT.Console\bin\Debug\SRT.Core.dll
+E:\dev work\Dev_Work\mission upgrade\Srt\Srt\SRT\jobcard.git\trunk\JobCard\SRT.Console\bin\Debug\SRT.Dao.dll
+E:\dev work\Dev_Work\mission upgrade\Srt\Srt\SRT\jobcard.git\trunk\JobCard\SRT.Console\bin\Debug\SRT.Core.pdb
+E:\dev work\Dev_Work\mission upgrade\Srt\Srt\SRT\jobcard.git\trunk\JobCard\SRT.Console\bin\Debug\SRT.Dao.pdb
+E:\dev work\Dev_Work\mission upgrade\Srt\Srt\SRT\jobcard.git\trunk\JobCard\SRT.Console\bin\Debug\FluentNHibernate.xml
+E:\dev work\Dev_Work\mission upgrade\Srt\Srt\SRT\jobcard.git\trunk\JobCard\SRT.Console\bin\Debug\NHibernate.xml
+E:\dev work\Dev_Work\mission upgrade\Srt\Srt\SRT\jobcard.git\trunk\JobCard\SRT.Console\obj\Debug\SRT.Console.csprojResolveAssemblyReference.cache

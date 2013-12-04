@@ -1,0 +1,20 @@
+E:\dev work\Dev_Work\mission upgrade\Srt\Srt\SRT\SRT.Core\bin\Debug\SRT.Core.dll
+E:\dev work\Dev_Work\mission upgrade\Srt\Srt\SRT\SRT.Core\bin\Debug\SRT.Core.pdb
+E:\dev work\Dev_Work\mission upgrade\Srt\Srt\SRT\SRT.Core\obj\Debug\SRT.Core.csprojResolveAssemblyReference.cache
+E:\dev work\Dev_Work\mission upgrade\Srt\Srt\SRT\SRT.Core\obj\Debug\SRT.Core.dll
+E:\dev work\Dev_Work\mission upgrade\Srt\Srt\SRT\SRT.Core\obj\Debug\SRT.Core.pdb
+E:\dev work\Dev_Work\mission upgrade\Srt\Srt\SRT\SRT.Core\bin\Debug\FluentNHibernate.dll
+E:\dev work\Dev_Work\mission upgrade\Srt\Srt\SRT\SRT.Core\bin\Debug\NHibernate.dll
+E:\dev work\Dev_Work\mission upgrade\Srt\Srt\SRT\SRT.Core\bin\Debug\Iesi.Collections.dll
+E:\dev work\Dev_Work\mission upgrade\Srt\Srt\SRT\SRT.Core\bin\Debug\FluentNHibernate.xml
+E:\dev work\Dev_Work\mission upgrade\Srt\Srt\SRT\SRT.Core\bin\Debug\NHibernate.xml
+E:\dev work\Dev_Work\mission upgrade\Srt\Srt\SRT\SRT.Core\bin\Debug\Iesi.Collections.xml
+I:\dev_work\personal\SRT\SRT.Core\bin\Debug\SRT.Core.dll
+I:\dev_work\personal\SRT\SRT.Core\bin\Debug\SRT.Core.pdb
+I:\dev_work\personal\SRT\SRT.Core\bin\Debug\FluentNHibernate.xml
+I:\dev_work\personal\SRT\SRT.Core\bin\Debug\NHibernate.xml
+I:\dev_work\personal\SRT\SRT.Core\obj\Debug\SRT.Core.csprojResolveAssemblyReference.cache
+I:\dev_work\personal\SRT\SRT.Core\obj\Debug\SRT.Core.dll
+I:\dev_work\personal\SRT\SRT.Core\obj\Debug\SRT.Core.pdb
+E:\dev work\Dev_Work\mission upgrade\Srt\Srt\SRT\SRT.Core\bin\Debug\SRT.Common.dll
+E:\dev work\Dev_Work\mission upgrade\Srt\Srt\SRT\SRT.Core\bin\Debug\SRT.Common.pdb

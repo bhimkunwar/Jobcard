@@ -1,0 +1,43 @@
+E:\dev work\Dev_Work\mission upgrade\Srt\Srt\SRT\SRT.Dao.Test\bin\Debug\SRT.Dao.Test.dll
+E:\dev work\Dev_Work\mission upgrade\Srt\Srt\SRT\SRT.Dao.Test\bin\Debug\SRT.Dao.Test.pdb
+E:\dev work\Dev_Work\mission upgrade\Srt\Srt\SRT\SRT.Dao.Test\bin\Debug\SRT.Core.dll
+E:\dev work\Dev_Work\mission upgrade\Srt\Srt\SRT\SRT.Dao.Test\bin\Debug\SRT.Dao.dll
+E:\dev work\Dev_Work\mission upgrade\Srt\Srt\SRT\SRT.Dao.Test\bin\Debug\FluentNHibernate.dll
+E:\dev work\Dev_Work\mission upgrade\Srt\Srt\SRT\SRT.Dao.Test\bin\Debug\NHibernate.dll
+E:\dev work\Dev_Work\mission upgrade\Srt\Srt\SRT\SRT.Dao.Test\bin\Debug\SRT.Core.pdb
+E:\dev work\Dev_Work\mission upgrade\Srt\Srt\SRT\SRT.Dao.Test\bin\Debug\SRT.Dao.pdb
+E:\dev work\Dev_Work\mission upgrade\Srt\Srt\SRT\SRT.Dao.Test\bin\Debug\FluentNHibernate.xml
+E:\dev work\Dev_Work\mission upgrade\Srt\Srt\SRT\SRT.Dao.Test\bin\Debug\NHibernate.xml
+E:\dev work\Dev_Work\mission upgrade\Srt\Srt\SRT\SRT.Dao.Test\obj\Debug\SRT.Dao.Test.csprojResolveAssemblyReference.cache
+E:\dev work\Dev_Work\mission upgrade\Srt\Srt\SRT\SRT.Dao.Test\obj\Debug\SRT.Dao.Test.dll
+E:\dev work\Dev_Work\mission upgrade\Srt\Srt\SRT\SRT.Dao.Test\obj\Debug\SRT.Dao.Test.pdb
+I:\dev_work\personal\SRT\SRT.Dao.Test\bin\Debug\SRT.Dao.Test.dll
+I:\dev_work\personal\SRT\SRT.Dao.Test\bin\Debug\SRT.Dao.Test.pdb
+I:\dev_work\personal\SRT\SRT.Dao.Test\bin\Debug\SRT.Core.dll
+I:\dev_work\personal\SRT\SRT.Dao.Test\bin\Debug\SRT.Dao.dll
+I:\dev_work\personal\SRT\SRT.Dao.Test\bin\Debug\FluentNHibernate.dll
+I:\dev_work\personal\SRT\SRT.Dao.Test\bin\Debug\NHibernate.dll
+I:\dev_work\personal\SRT\SRT.Dao.Test\bin\Debug\Iesi.Collections.dll
+I:\dev_work\personal\SRT\SRT.Dao.Test\bin\Debug\SRT.Core.pdb
+I:\dev_work\personal\SRT\SRT.Dao.Test\bin\Debug\SRT.Dao.pdb
+I:\dev_work\personal\SRT\SRT.Dao.Test\bin\Debug\FluentNHibernate.xml
+I:\dev_work\personal\SRT\SRT.Dao.Test\bin\Debug\NHibernate.xml
+I:\dev_work\personal\SRT\SRT.Dao.Test\obj\Debug\SRT.Dao.Test.csprojResolveAssemblyReference.cache
+I:\dev_work\personal\SRT\SRT.Dao.Test\obj\Debug\SRT.Dao.Test.dll
+I:\dev_work\personal\SRT\SRT.Dao.Test\obj\Debug\SRT.Dao.Test.pdb
+I:\dev_work\personal\SRT\SRT.Dao.Test\bin\Debug\SRT.Dao.Test.dll.config
+E:\dev work\Dev_Work\mission upgrade\Srt\Srt\SRT\SRT.Dao.Test\bin\Debug\SRT.Dao.Test.dll.config
+E:\dev work\Dev_Work\mission upgrade\Srt\Srt\SRT\jobcard.git\trunk\JobCard\SRT.Dao.Test\bin\Debug\SRT.Dao.Test.dll.config
+E:\dev work\Dev_Work\mission upgrade\Srt\Srt\SRT\jobcard.git\trunk\JobCard\SRT.Dao.Test\bin\Debug\SRT.Dao.Test.dll
+E:\dev work\Dev_Work\mission upgrade\Srt\Srt\SRT\jobcard.git\trunk\JobCard\SRT.Dao.Test\bin\Debug\SRT.Dao.Test.pdb
+E:\dev work\Dev_Work\mission upgrade\Srt\Srt\SRT\jobcard.git\trunk\JobCard\SRT.Dao.Test\bin\Debug\SRT.Core.dll
+E:\dev work\Dev_Work\mission upgrade\Srt\Srt\SRT\jobcard.git\trunk\JobCard\SRT.Dao.Test\bin\Debug\SRT.Dao.dll
+E:\dev work\Dev_Work\mission upgrade\Srt\Srt\SRT\jobcard.git\trunk\JobCard\SRT.Dao.Test\bin\Debug\FluentNHibernate.dll
+E:\dev work\Dev_Work\mission upgrade\Srt\Srt\SRT\jobcard.git\trunk\JobCard\SRT.Dao.Test\bin\Debug\NHibernate.dll
+E:\dev work\Dev_Work\mission upgrade\Srt\Srt\SRT\jobcard.git\trunk\JobCard\SRT.Dao.Test\bin\Debug\SRT.Core.pdb
+E:\dev work\Dev_Work\mission upgrade\Srt\Srt\SRT\jobcard.git\trunk\JobCard\SRT.Dao.Test\bin\Debug\SRT.Dao.pdb
+E:\dev work\Dev_Work\mission upgrade\Srt\Srt\SRT\jobcard.git\trunk\JobCard\SRT.Dao.Test\bin\Debug\FluentNHibernate.xml
+E:\dev work\Dev_Work\mission upgrade\Srt\Srt\SRT\jobcard.git\trunk\JobCard\SRT.Dao.Test\bin\Debug\NHibernate.xml
+E:\dev work\Dev_Work\mission upgrade\Srt\Srt\SRT\jobcard.git\trunk\JobCard\SRT.Dao.Test\obj\Debug\SRT.Dao.Test.csprojResolveAssemblyReference.cache
+E:\dev work\Dev_Work\mission upgrade\Srt\Srt\SRT\jobcard.git\trunk\JobCard\SRT.Dao.Test\obj\Debug\SRT.Dao.Test.dll
+E:\dev work\Dev_Work\mission upgrade\Srt\Srt\SRT\jobcard.git\trunk\JobCard\SRT.Dao.Test\obj\Debug\SRT.Dao.Test.pdb

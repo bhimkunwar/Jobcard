@@ -1,0 +1,37 @@
+E:\dev work\Dev_Work\mission upgrade\Srt\Srt\SRT\SRT.Web\bin\SRT.Web.dll
+E:\dev work\Dev_Work\mission upgrade\Srt\Srt\SRT\SRT.Web\bin\SRT.Web.pdb
+E:\dev work\Dev_Work\mission upgrade\Srt\Srt\SRT\SRT.Web\obj\Debug\SRT.Web.csprojResolveAssemblyReference.cache
+E:\dev work\Dev_Work\mission upgrade\Srt\Srt\SRT\SRT.Web\obj\Debug\SRT.Web.dll
+E:\dev work\Dev_Work\mission upgrade\Srt\Srt\SRT\SRT.Web\obj\Debug\SRT.Web.pdb
+I:\dev_work\personal\SRT\SRT.Web\bin\SRT.Web.dll
+I:\dev_work\personal\SRT\SRT.Web\bin\SRT.Web.pdb
+I:\dev_work\personal\SRT\SRT.Web\obj\Debug\SRT.Web.csprojResolveAssemblyReference.cache
+I:\dev_work\personal\SRT\SRT.Web\obj\Debug\SRT.Web.dll
+I:\dev_work\personal\SRT\SRT.Web\obj\Debug\SRT.Web.pdb
+E:\dev work\Dev_Work\mission upgrade\Srt\Srt\SRT\SRT.Web\bin\SRT.Core.dll
+E:\dev work\Dev_Work\mission upgrade\Srt\Srt\SRT\SRT.Web\bin\SRT.Dao.dll
+E:\dev work\Dev_Work\mission upgrade\Srt\Srt\SRT\SRT.Web\bin\FluentNHibernate.dll
+E:\dev work\Dev_Work\mission upgrade\Srt\Srt\SRT\SRT.Web\bin\NHibernate.dll
+E:\dev work\Dev_Work\mission upgrade\Srt\Srt\SRT\SRT.Web\bin\Iesi.Collections.dll
+E:\dev work\Dev_Work\mission upgrade\Srt\Srt\SRT\SRT.Web\bin\SRT.Core.pdb
+E:\dev work\Dev_Work\mission upgrade\Srt\Srt\SRT\SRT.Web\bin\SRT.Dao.pdb
+E:\dev work\Dev_Work\mission upgrade\Srt\Srt\SRT\SRT.Web\bin\FluentNHibernate.xml
+E:\dev work\Dev_Work\mission upgrade\Srt\Srt\SRT\SRT.Web\bin\NHibernate.xml
+E:\dev work\Dev_Work\mission upgrade\Srt\Srt\SRT\SRT.Web\bin\SRT.Service.dll
+E:\dev work\Dev_Work\mission upgrade\Srt\Srt\SRT\SRT.Web\bin\SRT.Service.pdb
+E:\dev work\Dev_Work\mission upgrade\Srt\Srt\SRT\jobcard.git\trunk\JobCard\SRT.Web\bin\SRT.Web.dll
+E:\dev work\Dev_Work\mission upgrade\Srt\Srt\SRT\jobcard.git\trunk\JobCard\SRT.Web\bin\SRT.Web.pdb
+E:\dev work\Dev_Work\mission upgrade\Srt\Srt\SRT\jobcard.git\trunk\JobCard\SRT.Web\bin\SRT.Core.dll
+E:\dev work\Dev_Work\mission upgrade\Srt\Srt\SRT\jobcard.git\trunk\JobCard\SRT.Web\bin\SRT.Dao.dll
+E:\dev work\Dev_Work\mission upgrade\Srt\Srt\SRT\jobcard.git\trunk\JobCard\SRT.Web\bin\SRT.Service.dll
+E:\dev work\Dev_Work\mission upgrade\Srt\Srt\SRT\jobcard.git\trunk\JobCard\SRT.Web\bin\FluentNHibernate.dll
+E:\dev work\Dev_Work\mission upgrade\Srt\Srt\SRT\jobcard.git\trunk\JobCard\SRT.Web\bin\NHibernate.dll
+E:\dev work\Dev_Work\mission upgrade\Srt\Srt\SRT\jobcard.git\trunk\JobCard\SRT.Web\bin\Iesi.Collections.dll
+E:\dev work\Dev_Work\mission upgrade\Srt\Srt\SRT\jobcard.git\trunk\JobCard\SRT.Web\bin\SRT.Core.pdb
+E:\dev work\Dev_Work\mission upgrade\Srt\Srt\SRT\jobcard.git\trunk\JobCard\SRT.Web\bin\SRT.Dao.pdb
+E:\dev work\Dev_Work\mission upgrade\Srt\Srt\SRT\jobcard.git\trunk\JobCard\SRT.Web\bin\SRT.Service.pdb
+E:\dev work\Dev_Work\mission upgrade\Srt\Srt\SRT\jobcard.git\trunk\JobCard\SRT.Web\bin\FluentNHibernate.xml
+E:\dev work\Dev_Work\mission upgrade\Srt\Srt\SRT\jobcard.git\trunk\JobCard\SRT.Web\bin\NHibernate.xml
+E:\dev work\Dev_Work\mission upgrade\Srt\Srt\SRT\jobcard.git\trunk\JobCard\SRT.Web\obj\Debug\SRT.Web.csprojResolveAssemblyReference.cache
+E:\dev work\Dev_Work\mission upgrade\Srt\Srt\SRT\jobcard.git\trunk\JobCard\SRT.Web\obj\Debug\SRT.Web.dll
+E:\dev work\Dev_Work\mission upgrade\Srt\Srt\SRT\jobcard.git\trunk\JobCard\SRT.Web\obj\Debug\SRT.Web.pdb
